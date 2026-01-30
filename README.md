@@ -1,73 +1,100 @@
-# Welcome to your Lovable project
+Click2Ration 
+Smart Ration Distribution System
+Project Overview
 
-## Project info
+Click2Ration is a smart digital platform designed to modernize India’s Public Distribution System (PDS). It enables beneficiaries to order ration online, track deliveries in real time, and ensures secure biometric verification at the doorstep, eliminating fraud, long queues, and lack of transparency.
 
-**URL**: https://lovable.dev/projects/61122860-7990-41a7-9b79-9a711508f3b2
+This project focuses on accessibility, transparency, and security, especially for elderly and rural beneficiaries.
 
-## How can I edit this code?
+🎯 Problem Statement
 
-There are several ways of editing your application.
+The existing PDS suffers from:
 
-**Use Lovable**
+Long queues and manual processes
 
-Simply visit the [Lovable Project](https://lovable.dev/projects/61122860-7990-41a7-9b79-9a711508f3b2) and start prompting.
+Lack of transparency in stock and delivery
 
-Changes made via Lovable will be committed automatically to this repo.
+Malpractices such as under-supply and diversion
 
-**Use your preferred IDE**
+Inconvenience for elderly and differently-abled citizens
 
-If you want to work locally using your own IDE, you can clone this repo and push changes. Pushed changes will also be reflected in Lovable.
+💡 Solution
 
-The only requirement is having Node.js & npm installed - [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
+Click2Ration digitalizes the ration supply chain through:
 
-Follow these steps:
+Online ration ordering via web/mobile
 
-```sh
-# Step 1: Clone the repository using the project's Git URL.
-git clone <YOUR_GIT_URL>
+Real-time delivery tracking
 
-# Step 2: Navigate to the project directory.
-cd <YOUR_PROJECT_NAME>
+Biometric fingerprint authentication at delivery
 
-# Step 3: Install the necessary dependencies.
-npm i
+AI-powered bilingual assistance (Tamil & Tanglish)
 
-# Step 4: Start the development server with auto-reloading and an instant preview.
-npm run dev
-```
+✨ Key Features
 
-**Edit a file directly in GitHub**
+Secure login using Ration Card + OTP
 
-- Navigate to the desired file(s).
-- Click the "Edit" button (pencil icon) at the top right of the file view.
-- Make your changes and commit the changes.
+Smart dashboard with commodity availability
 
-**Use GitHub Codespaces**
+Online payment (UPI / Card / Cash)
 
-- Navigate to the main page of your repository.
-- Click on the "Code" button (green button) near the top right.
-- Select the "Codespaces" tab.
-- Click on "New codespace" to launch a new Codespace environment.
-- Edit files directly within the Codespace and commit and push your changes once you're done.
+Real-time delivery tracking
 
-## What technologies are used for this project?
+Biometric fingerprint verification at doorstep
 
-This project is built with:
+E-receipts and purchase history
 
-- Vite
-- TypeScript
-- React
-- shadcn-ui
-- Tailwind CSS
+AI Agent (RationBot) for user guidance
 
-## How can I deploy this project?
+Tamil & Tanglish language support
 
-Simply open [Lovable](https://lovable.dev/projects/61122860-7990-41a7-9b79-9a711508f3b2) and click on Share -> Publish.
 
-## Can I connect a custom domain to my Lovable project?
+🧠 Development Approach
 
-Yes, you can!
+This project is built using Vibe Coding, focusing on:
 
-To connect a domain, navigate to Project > Settings > Domains and click Connect Domain.
+Rapid prototyping
 
-Read more here: [Setting up a custom domain](https://docs.lovable.dev/tips-tricks/custom-domain#step-by-step-guide)
+Low-code / no-code tools
+
+Prompt-driven AI integration
+
+User-centric design and flow
+
+🛠️ Technologies Used
+
+Frontend: HTML, CSS, JavaScript
+
+Backend: Firebase / Cloud Services
+
+Authentication: OTP-based login
+
+AI: Generative AI for RationBot
+
+Biometrics: Portable fingerprint device (conceptual)
+
+Maps: Demo tracking map integration
+
+🌍 Impact
+
+Prevents fraud and misuse
+
+Saves time and effort for citizens
+
+Improves trust in government services
+
+Enhances accessibility for rural users
+
+🚀 Future Scope
+
+Government integration with UIDAI (with approval)
+
+Offline mode for low-network areas
+
+Full mobile app deployment
+
+Analytics dashboard for authorities
+
+👨‍💻 Author
+Kishore S
+Engineering Student | Web & AI Enthusiast
